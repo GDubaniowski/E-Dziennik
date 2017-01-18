@@ -1,0 +1,33 @@
+﻿  main.cpp
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(152): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(155): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(161): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(164): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(167): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(170): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(232): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(233): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(234): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\grześ\documents\visual studio 2010\projects\projekt winapi\funkcje.h(235): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+main.cpp(310): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+main.cpp(319): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+main.cpp(323): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+main.cpp(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(371) : see declaration of 'sprintf'
+main.cpp(355): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+main.cpp(356): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Programy\Visual 2010\VC\include\stdio.h(253) : see declaration of 'fscanf'
+  winapi-VS2010.vcxproj -> C:\Users\Grześ\Documents\Visual Studio 2010\Projects\Projekt winapi\Debug\winapi-VS2010.exe
